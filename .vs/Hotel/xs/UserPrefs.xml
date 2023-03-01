@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{1FD736E3-E146-4B9D-96DA-FFFDE873D2A8}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hotel PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel/Controllers/AdminAction.cs">
+    <Files>
+      <File FileName="Hotel/Controllers/AdminAction.cs" Line="37" Column="1" />
+      <File FileName="Hotel/appsettings.json" Line="1" Column="1" />
+      <File FileName="Hotel/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Hotel/Controllers/WeatherForecastController.cs" Line="6" Column="21" />
+      <File FileName="Hotel/Controllers/RegistrationAction.cs" Line="14" Column="51" />
+      <File FileName="Hotel/Program.cs" Line="14" Column="1" />
+      <File FileName="Hotel/Controllers/CartIteamAction.cs" Line="36" Column="31" />
+      <File FileName="Hotel/Interfaces/MainInterface.cs" Line="1" Column="1" />
+      <File FileName="Hotel/DataBase/MainDataBase.cs" Line="26" Column="1" />
+      <File FileName="Hotel/Controllers/LogInAction.cs" Line="10" Column="20" />
+      <File FileName="Hotel/Models/LogInModel.cs" Line="1" Column="1" />
+      <File FileName="Hotel/Controllers/OrderAction.cs" Line="11" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotel" expanded="True">
+            <Node name="Hotel" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AdminAction.cs" selected="True" />
+              </Node>
+              <Node name="DataBase" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
